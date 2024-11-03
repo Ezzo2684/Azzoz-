@@ -23,9 +23,9 @@ document.getElementById('quick-access-btn').onclick = function() {
 };
 
 // إضافة رسالة ترحيبية عند الدخول للصفحة
-window.onload = function() {
+/*window.onload = function() {
     alert('مرحبا بك في موقع تحميل المحاضرات');
-};
+};*/
 
 // وظيفة لتفعيل الوضع الليلي
 function toggleNightMode() {
